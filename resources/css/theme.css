@@ -62,7 +62,7 @@ html[dir="rtl"] .hamburger-menu:before {
     border-left: 1px solid #eee;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1200px) {
     body.fixed-sidebar .bg-grad-sidebar {
         position: fixed;
         padding-top: 5.5rem !important;
@@ -110,7 +110,7 @@ html[dir="rtl"] .hamburger-menu:before {
     }
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1200px) {
     /* Sidebar */
     .w-sidebar {
         position: fixed;
